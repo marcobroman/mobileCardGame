@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "mobile8",
-    "slug": "mobile8",
+    "slug": "mobiletestgame",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -28,6 +28,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "639087c3-82a4-4ac7-b449-2281682875a0"
+      }
+    },
+    "owner": "romanmarci"
   }
 }
